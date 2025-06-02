@@ -1,0 +1,74 @@
+Feedback 1:
+Attendance is acceptable but involvement in discussions is minimal. Poor participation in class and group tasks. Shows little initiative in academic and extracurricular work.
+
+Feedback 2:
+Failed to demonstrate understanding of fundamental topics. Needs to work on time management and meeting deadlines. Could benefit from additional guidance in technical areas.
+
+Feedback 3:
+Failed to demonstrate understanding of fundamental topics. Should focus more during lectures to grasp key concepts. Performance is satisfactory but could be more consistent.
+
+Feedback 4:
+Attendance is acceptable but involvement in discussions is minimal. Demonstrates a basic understanding of the material. Assignments sometimes lack the necessary depth.
+
+Feedback 5:
+Should focus more during lectures to grasp key concepts. Class participation can be improved. Work is adequate though not exceptional.
+
+Feedback 6:
+Demonstrates strong leadership and initiative. Class participation can be improved. Needs to work on time management and meeting deadlines.
+
+Feedback 7:
+Needs to work on time management and meeting deadlines. Has the potential to do better with more effort. Performance is satisfactory but could be more consistent.
+
+Feedback 8:
+Has shown remarkable improvement over the semester. Failed to demonstrate understanding of fundamental topics. Should focus more during lectures to grasp key concepts.
+
+Feedback 9:
+Excellent participation in both group and individual activities. Has not met academic expectations this term. Assignments are always submitted on time and meet expectations.
+
+Feedback 10:
+Needs to work on time management and meeting deadlines. Assignments sometimes lack the necessary depth. Could benefit from additional guidance in technical areas.
+
+Feedback 11:
+Should focus more during lectures to grasp key concepts. Demonstrates strong leadership and initiative. Class participation can be improved.
+
+Feedback 12:
+Assignments are always submitted on time and meet expectations. Shows little initiative in academic and extracurricular work. Could benefit from additional guidance in technical areas.
+
+Feedback 13:
+Could benefit from additional guidance in technical areas. Work is adequate though not exceptional. Needs to work on time management and meeting deadlines.
+
+Feedback 14:
+The student has consistently delivered high-quality work. Demonstrates a basic understanding of the material. Has shown remarkable improvement over the semester.
+
+Feedback 15:
+Has the potential to do better with more effort. Class participation can be improved. Failed to demonstrate understanding of fundamental topics.
+
+Feedback 16:
+Assignments sometimes lack the necessary depth. The student has consistently delivered high-quality work. Could benefit from additional guidance in technical areas.
+
+Feedback 17:
+Assignments sometimes lack the necessary depth. Poor participation in class and group tasks. Assignments are always submitted on time and meet expectations.
+
+Feedback 18:
+Assignments sometimes lack the necessary depth. Could benefit from additional guidance in technical areas. The student has consistently delivered high-quality work.
+
+Feedback 19:
+Missed several important deadlines and lacked engagement. Could benefit from additional guidance in technical areas. Has not met academic expectations this term.
+
+Feedback 20:
+Class participation can be improved. Demonstrates a basic understanding of the material. Failed to demonstrate understanding of fundamental topics.
+
+Feedback 21:
+Missed several important deadlines and lacked engagement. Needs to work on time management and meeting deadlines. Failed to demonstrate understanding of fundamental topics.
+
+Feedback 22:
+Shows little initiative in academic and extracurricular work. Could benefit from additional guidance in technical areas. Demonstrates a basic understanding of the material.
+
+Feedback 23:
+Has not met academic expectations this term. Performance is satisfactory but could be more consistent. Has shown remarkable improvement over the semester.
+
+Feedback 24:
+Demonstrates a basic understanding of the material. Has the potential to do better with more effort. Work is adequate though not exceptional.
+
+Feedback 25:
+Needs to work on time management and meeting deadlines. Has the potential to do better with more effort. Has not met academic expectations this term.
