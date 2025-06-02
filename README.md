@@ -23,19 +23,13 @@ nltk.download('punkt')
 
 📌 Usage
 Edit the file path in summarizer_sentiment.py:
-
-python
-Copy
-Edit
 file_path = "path/to/your/sample_feedback.txt"
-Then run:
 
-bash
-Copy
-Edit
+Then run:
 python summarizer_sentiment.py
+
+
 Output includes:
 
 A concise summary of all feedback
-
 A count of positive, negative, and neutral sentiments
